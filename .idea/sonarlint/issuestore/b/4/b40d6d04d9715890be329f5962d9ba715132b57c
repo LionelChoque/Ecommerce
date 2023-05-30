@@ -1,0 +1,14 @@
+
+g
+java:S1192>"JDefine a constant instead of duplicating this literal "idusuario" 6 times.(Áüæœ8¬ÉÒ£†1
+h
+java:S11922"KDefine a constant instead of duplicating this literal "redirect:/" 4 times.(äÔ¶½8®ÉÒ£†1
+l
+java:S3655b"JCall "orden.isPresent()" or "!orden.isEmpty()" before accessing the value.(ü²Åãüÿÿÿÿ8¿ËÒ£†1
+r
+java:S3655T"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ğ»ºüÿÿÿÿ8¾ËÒ£†1
+]
+java:S4684-"@Replace this persistent entity with a simple POJO or DTO object.(ÚÖá8äËÒ£†1
+b
+java:S4684;"@Replace this persistent entity with a simple POJO or DTO object.(™È—§ÿÿÿÿÿ8óËÒ£†1
+]	java:S125?"<This block of commented-out lines of code should be removed.(â¡¨ÿıÿÿÿÿ8÷ËÒ£†1
