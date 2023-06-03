@@ -1,6 +1,6 @@
-# fly.toml app configuration file generated for app-ecommerce on 2023-06-03T17:10:35-03:00
+# fly.toml app configuration file generated for app-ecommerce on 2023-06-03T17:52:42-03:00
 #
-# See https://fly.io/docs/reference/confguration/ for information about how to use this file.
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = "app-ecommerce"
