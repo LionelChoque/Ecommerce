@@ -62,6 +62,7 @@ public class HomeController {
 		//session
 		model.addAttribute("sesion", session.getAttribute("idusuario"));
 
+
 		return "usuario/home";
 	}
 
